@@ -1,4 +1,4 @@
-"set tabstop=2
+set tabstop=3
 "set shiftwidth=2
 "set expandtab
 
